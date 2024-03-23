@@ -1,0 +1,13 @@
+export const DEVICE_ID_KEY = '__a_fabd__';
+export const OTP_KEY = '__b_fabd__';
+export const TWOFA_KEY = '__u_fabd__';
+export const PAYLOAD_LOGIN_KEY = '__c_fabd__';
+export const RESEND_OTP_KEY = '__d_fabd__';
+export const REFRESH_TOKEN_KEY = '__e_fabd__';
+export const ACCESS_TOKEN_KEY = '__f_fabd__';
+export const RESPONSE_REGISTER_KEY = '__g_fabd__';
+export const RESPONSE_FORGOT_PASS_KEY = '__h_fabd__';
+export const ENVIRONMENT_MODE_KEY = '__i_fabd__';
+export const SESSION_ACTIVE_KEY = '__j_fabd__';
+export const SESSION_EDIT_KEY = '__k_fabd__';
+export const DATA_BROWSER_KEY = '__o_fabd__';

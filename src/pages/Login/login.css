@@ -1,0 +1,7 @@
+/* Untuk background gambar login */
+.bg-image {
+    background-image   : url('../../assets/images/bg_login.svg');
+    background-size    : cover;
+    background-position: center;
+    min-height         : 100vh;
+}
