@@ -16,13 +16,6 @@
         "test:watch:cover": "npm run test:watch -- --coverage",
         "release:patch": "release-it patch"
     },
-    "author": {
-        "name": "Squad FE DSZ"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://gitlab.playcourt.id/fab-digital/core-v4/fabd-core-fe-backoffice"
-    },
     "dependencies": {
         "@emotion/react": "^11.11.1",
         "@emotion/styled": "^11.11.0",
